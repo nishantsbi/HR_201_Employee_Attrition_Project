@@ -25,7 +25,7 @@ dept_job_role_tbl
 # 1A. View Business As Machine ----
 
 # BSU's: Department and Job Role
-# Define Objectives: Retrain High Performers
+# Define Objectives: Retain High Performers
 # Assess Outcomes: TBD 
 
 dept_job_role_tbl %>% 
